@@ -25,3 +25,8 @@ ac = 2
 
 ad = ab > ac 
 print(ad)
+ae = ab < ac
+print(ae)
+af = ab == ac
+print(af)
+print (ab > 5)
